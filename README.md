@@ -1,3 +1,6 @@
+
+                                                                                       Steganography-AICTE-Project
+
 Steganography in images involves hiding secret data within an image file in such a way that it remains invisible to human perception. When combined with encryption, it adds an extra layer of security, ensuring that even if the hidden data is extracted, it remains unreadable without a decryption key.
 
 Process:- Encrypt the Data: Before hiding the message in an image, encrypt it using algorithms like AES, DES, or RSA. This ensures that even if the message is extracted, it remains unreadable.
